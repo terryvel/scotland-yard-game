@@ -1,6 +1,5 @@
 // vue.config.js
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/scotland-yard-game/' : '/',
   pwa: {
     name: 'Minha Aplicação Vue PWA',
     themeColor: '#42b983',
